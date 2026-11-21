@@ -16,6 +16,7 @@ We are a young company always looking for new and creative ideas to help you wit
 ### 🛠️ Technologies We Work With
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Fat-Free Framework](https://img.shields.io/badge/Fat--Free%20Framework%20(F3)-0D6EFD?style=for-the-badge)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
