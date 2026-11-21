@@ -25,7 +25,11 @@ We are a young company always looking for new and creative ideas to help you wit
 
 ---
 
-### 🌐 Connect With Us
+### 🤝 Outsourcing & Collaboration
 
+* **Dedicated & Project-Based Outsourcing:** Reliable backend engineering, bug fixing, performance optimization, and ongoing maintenance for agencies and product teams
+* **How to Get Started:** Visit [https://www.rajtechnologies.com](https://www.rajtechnologies.com) to share your project scope, timeline, and technical requirements
+
+### 🌐 Connect With Us
 * **Website:** [https://www.rajtechnologies.com](https://www.rajtechnologies.com)
 * **Location:** Ahmedabad, India
